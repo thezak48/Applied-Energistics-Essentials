@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ThaumicAE",
+  "name": "Thaumic AE",
+  "description": "Applied Energistics integration for Thaumcraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thezak48"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
