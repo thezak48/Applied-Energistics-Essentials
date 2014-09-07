@@ -1,0 +1,12 @@
+//Items
+item.demeraldcraft:demerald.name=Demerald
+
+//Blocks
+tile.demeraldcraft:demeraldore.name=Demerald Ore
+tile.demeraldcraft:demeraldblock.name=Demerald Block
+tile.demeraldcraft:demeraldfurnace.name=Demerald Furnace
+
+//GUI
+
+//Creative Tab
+itemGroup.DemeraldCraft=Demerald Craft
