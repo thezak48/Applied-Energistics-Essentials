@@ -1,10 +1,12 @@
-package com.saundersmayhem.thaumicAE.utility;
-
-import org.apache.logging.log4j.Level;
+package com.saundersmayhem.thaumicAE.util;
 
 import com.saundersmayhem.thaumicAE.reference.Reference;
-
 import cpw.mods.fml.common.FMLLog;
+import org.apache.logging.log4j.Level;
+
+/**
+ * Created by thezak48 on 28/12/2014.
+ */
 
 public class LogHelper
 {
