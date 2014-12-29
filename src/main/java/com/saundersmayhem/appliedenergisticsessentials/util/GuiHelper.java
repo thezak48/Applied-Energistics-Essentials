@@ -1,4 +1,4 @@
-package com.saundersmayhem.thaumicAE.util;
+package com.saundersmayhem.appliedenergisticsessentials.util;
 
 /**
  * Created by thezak48 on 29/12/2014.

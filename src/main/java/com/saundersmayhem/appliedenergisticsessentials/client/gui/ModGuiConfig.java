@@ -1,7 +1,7 @@
-package com.saundersmayhem.thaumicAE.client.gui;
+package com.saundersmayhem.appliedenergisticsessentials.client.gui;
 
-import com.saundersmayhem.thaumicAE.handler.ConfigHandler;
-import com.saundersmayhem.thaumicAE.reference.Reference;
+import com.saundersmayhem.appliedenergisticsessentials.handler.ConfigHandler;
+import com.saundersmayhem.appliedenergisticsessentials.reference.Reference;
 import cpw.mods.fml.client.config.GuiConfig;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;

@@ -1,6 +1,6 @@
-package com.saundersmayhem.thaumicAE.handler;
+package com.saundersmayhem.appliedenergisticsessentials.handler;
 
-import com.saundersmayhem.thaumicAE.reference.Reference;
+import com.saundersmayhem.appliedenergisticsessentials.reference.Reference;
 import cpw.mods.fml.client.event.ConfigChangedEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.common.config.Configuration;

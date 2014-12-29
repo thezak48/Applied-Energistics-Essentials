@@ -1,9 +1,9 @@
-package com.saundersmayhem.thaumicAE;
+package com.saundersmayhem.appliedenergisticsessentials;
 
-import com.saundersmayhem.thaumicAE.handler.ConfigHandler;
-import com.saundersmayhem.thaumicAE.proxy.IProxy;
-import com.saundersmayhem.thaumicAE.reference.Reference;
-import com.saundersmayhem.thaumicAE.util.LogHelper;
+import com.saundersmayhem.appliedenergisticsessentials.handler.ConfigHandler;
+import com.saundersmayhem.appliedenergisticsessentials.proxy.IProxy;
+import com.saundersmayhem.appliedenergisticsessentials.reference.Reference;
+import com.saundersmayhem.appliedenergisticsessentials.util.LogHelper;
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
@@ -17,10 +17,10 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Reference.MOD_ID, version = Reference.VERSION, name = Reference.MOD_NAME)
 
-public class ThaumicAE
+public class AppliedEnergisticsEssentials
 {
     @Mod.Instance(Reference.MOD_ID)
-    public static ThaumicAE instance;
+    public static AppliedEnergisticsEssentials instance;
 
     @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;

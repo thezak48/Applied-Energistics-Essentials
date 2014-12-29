@@ -1,4 +1,4 @@
-package com.saundersmayhem.thaumicAE.util;
+package com.saundersmayhem.appliedenergisticsessentials.util;
 
 import cpw.mods.fml.common.FMLCommonHandler;
 

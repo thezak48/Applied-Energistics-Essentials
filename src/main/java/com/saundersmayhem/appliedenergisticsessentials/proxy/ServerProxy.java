@@ -1,4 +1,4 @@
-package com.saundersmayhem.thaumicAE.proxy;
+package com.saundersmayhem.appliedenergisticsessentials.proxy;
 
 /**
  * Created by thezak48 on 28/12/2014.

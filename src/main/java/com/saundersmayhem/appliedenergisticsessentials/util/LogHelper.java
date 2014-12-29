@@ -1,6 +1,6 @@
-package com.saundersmayhem.thaumicAE.util;
+package com.saundersmayhem.appliedenergisticsessentials.util;
 
-import com.saundersmayhem.thaumicAE.reference.Reference;
+import com.saundersmayhem.appliedenergisticsessentials.reference.Reference;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 

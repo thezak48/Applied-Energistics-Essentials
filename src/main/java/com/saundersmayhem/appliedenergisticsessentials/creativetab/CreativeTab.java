@@ -1,6 +1,6 @@
-package com.saundersmayhem.thaumicAE.creativetab;
+package com.saundersmayhem.appliedenergisticsessentials.creativetab;
 
-import com.saundersmayhem.thaumicAE.reference.Reference;
+import com.saundersmayhem.appliedenergisticsessentials.reference.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 

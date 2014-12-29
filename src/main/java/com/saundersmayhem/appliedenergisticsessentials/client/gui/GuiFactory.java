@@ -1,4 +1,4 @@
-package com.saundersmayhem.thaumicAE.client.gui;
+package com.saundersmayhem.appliedenergisticsessentials.client.gui;
 
 import cpw.mods.fml.client.IModGuiFactory;
 import net.minecraft.client.Minecraft;
